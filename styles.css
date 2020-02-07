@@ -1,0 +1,10 @@
+body {
+    background-color: brown;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 80px;
+    color: #525252;
+    text-align: center;
+}
